@@ -7,10 +7,15 @@ import streamlit as st
 st.set_page_config(page_title="Conversor PDF → TXT", layout="centered")
 
 st.title("📄 Conversão de PDF para TXT")
-st.write("Este aplicativo recebe um arquivo PDF, extrai o texto e gera um arquivo .txt.")
-st.markdown("---")
-st.markdown("🛠️ **Desenvolvido por Rodrigo Higashi**  \n📬 _Contato:_ rockigo@email.com  \n🔗 [Meu LinkedIn](https://www.linkedin.com/in/rodrigohigashi/)")
-st.markdown("---")
+st.markdown("""
+            ---
+Este aplicativo converte um arquivo PDF, extrai o texto e gera um arquivo .txt.
+Foi criado para simplificar o trabalho de profissionais da saúde ou demais que precisam extrair texto de arquivos PDF.
+
+** 🛠️ Feito por Rodrigo Higashi **
+[GitHub](https://github.com/rodrigohigashi) | [LinkedIn](https://www.linkedin.com/in/rodrigohigashi/)
+            ---
+""")
 
 # Upload do arquivo PDF
 arquivo_pdf = st.file_uploader("Faça upload do PDF", type=["pdf"])
