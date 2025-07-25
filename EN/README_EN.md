@@ -26,6 +26,16 @@ The app is entirely free and was developed by Rodrigo Higashi.
 
 ---
 
+## 🚀 Try it online
+
+You can try the English version of the app directly on Streamlit:
+
+👉 [Open English app](https://extractor-text-pdf-en.streamlit.app/)
+
+Or the Portuguese version:
+
+👉 [Open Portuguese app](https://extractor-text-pdf-pt.streamlit.app/)
+
 ## Author
 
 **Rodrigo Higashi**  

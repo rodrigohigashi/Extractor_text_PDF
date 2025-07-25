@@ -26,6 +26,18 @@ O app é totalmente gratuito e foi desenvolvido por Rodrigo Higashi.
 
 ---
 
+## 🚀 Teste o app online
+
+Você pode testar a versão em português diretamente pelo Streamlit:
+
+👉 [Abrir app em português](https://extractor-text-pdf-pt.streamlit.app/)
+
+Ou se preferir em inglês:
+
+👉 [Abrir app em inglês](https://extractor-text-pdf-en.streamlit.app/)
+
+---
+
 ## Autor
 
 **Rodrigo Figueiredo**  
